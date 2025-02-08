@@ -34,3 +34,4 @@ Ensure the PORT environment variable is set dynamically.
 Useful Links
 Live API: https://your-app-name.up.railway.app/getInfo
 GitHub Repo: https://github.com/Ama-s/basic-info-api
+https://hng.tech/hire/java-developers
